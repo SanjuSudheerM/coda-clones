@@ -1,0 +1,19 @@
+{
+  "name": "coda-clones",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SanjuSudheerM/coda-clones.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SanjuSudheerM/coda-clones/issues"
+  },
+  "homepage": "https://github.com/SanjuSudheerM/coda-clones#readme"
+}
